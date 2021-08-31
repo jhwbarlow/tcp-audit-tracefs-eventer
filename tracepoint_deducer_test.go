@@ -177,7 +177,7 @@ func TestDeduceTracepointMountpointRetrieverError(t *testing.T) {
 func bootstrapMockTraceFS(tracepoint string, inaccessible bool) (string, func(), error) {
 	undoFunc := func() {}
 
-	mountpoint, err := ioutil.TempDir("", "ftrace-eventer-test-")
+	mountpoint, err := ioutil.TempDir("", "tracefs-eventer-test-")
 	if err != nil {
 		return "", undoFunc, fmt.Errorf("creating temp directory: %w", err)
 	}

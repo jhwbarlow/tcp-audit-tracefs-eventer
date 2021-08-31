@@ -1,4 +1,4 @@
-module github.com/jhwbarlow/tcp-audit-ftrace-eventer
+module github.com/jhwbarlow/tcp-audit-tracefs-eventer
 
 go 1.15
 
