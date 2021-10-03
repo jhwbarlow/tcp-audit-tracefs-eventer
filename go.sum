@@ -2,3 +2,5 @@ github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/jhwbarlow/tcp-audit-common v0.0.0-20210831195703-56b4e4c3ea54 h1:IR6ftuDv4kxWJOnCkWPkDK/RbUWzSTetPllqowBMM2c=
 github.com/jhwbarlow/tcp-audit-common v0.0.0-20210831195703-56b4e4c3ea54/go.mod h1:mYDtIXA9qM/Uoom42k/ONd0tko0+LdFsxgiKeQ/9Y0g=
+github.com/jhwbarlow/tcp-audit-common v0.0.0-20210928211236-5e6841819533 h1:Ph8IppvKYux16Z+EK6FToTlMRINbQVZDAB98T42kCic=
+github.com/jhwbarlow/tcp-audit-common v0.0.0-20210928211236-5e6841819533/go.mod h1:mYDtIXA9qM/Uoom42k/ONd0tko0+LdFsxgiKeQ/9Y0g=

@@ -6,5 +6,5 @@ go 1.15
 
 require (
 	github.com/google/uuid v1.3.0
-	github.com/jhwbarlow/tcp-audit-common v0.0.0-20210831195703-56b4e4c3ea54
+	github.com/jhwbarlow/tcp-audit-common v0.0.0-20210928211236-5e6841819533
 )
